@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\RIX_2024\\L1\\Jenkins\\FantasyWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5CCAA674-1882-496C-BD46-C87F4308519B}|FantasyWebApp.tests\\FantasyWebApp.tests.csproj|d:\\rix_2024\\l1\\jenkins\\fantasywebapp\\fantasywebapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCAA674-1882-496C-BD46-C87F4308519B}|FantasyWebApp.tests\\FantasyWebApp.tests.csproj|solutionrelative:fantasywebapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{22D66E4E-EE8B-40D9-9432-83F98C08D401}|FantasyWebApp\\FantasyWebApp.csproj|d:\\rix_2024\\l1\\jenkins\\fantasywebapp\\fantasywebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{22D66E4E-EE8B-40D9-9432-83F98C08D401}|FantasyWebApp\\FantasyWebApp.csproj|solutionrelative:fantasywebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D66E4E-EE8B-40D9-9432-83F98C08D401}|FantasyWebApp\\FantasyWebApp.csproj|d:\\rix_2024\\l1\\jenkins\\fantasywebapp\\fantasywebapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22D66E4E-EE8B-40D9-9432-83F98C08D401}|FantasyWebApp\\FantasyWebApp.csproj|solutionrelative:fantasywebapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D66E4E-EE8B-40D9-9432-83F98C08D401}|FantasyWebApp\\FantasyWebApp.csproj|d:\\rix_2024\\l1\\jenkins\\fantasywebapp\\fantasywebapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D66E4E-EE8B-40D9-9432-83F98C08D401}|FantasyWebApp\\FantasyWebApp.csproj|solutionrelative:fantasywebapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\RIX_2024\\L1\\Jenkins\\FantasyWebApp\\FantasyWebApp\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FantasyWebApp\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\RIX_2024\\L1\\Jenkins\\FantasyWebApp\\FantasyWebApp\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "FantasyWebApp\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T05:27:25.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\RIX_2024\\L1\\Jenkins\\FantasyWebApp\\FantasyWebApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FantasyWebApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\RIX_2024\\L1\\Jenkins\\FantasyWebApp\\FantasyWebApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "FantasyWebApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:27:22.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\RIX_2024\\L1\\Jenkins\\FantasyWebApp\\FantasyWebApp.tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "FantasyWebApp.tests\\UnitTest1.cs",
+              "ToolTip": "D:\\RIX_2024\\L1\\Jenkins\\FantasyWebApp\\FantasyWebApp.tests\\UnitTest1.cs",
+              "RelativeToolTip": "FantasyWebApp.tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:18:02.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\RIX_2024\\L1\\Jenkins\\FantasyWebApp\\FantasyWebApp\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "FantasyWebApp\\Pages\\Index.cshtml",
               "ToolTip": "D:\\RIX_2024\\L1\\Jenkins\\FantasyWebApp\\FantasyWebApp\\Pages\\Index.cshtml",
               "RelativeToolTip": "FantasyWebApp\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-25T04:31:41.304Z",
               "EditorCaption": ""

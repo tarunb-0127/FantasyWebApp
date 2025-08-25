@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36221.1 d17.14
+VisualStudioVersion = 17.14.36221.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FantasyWebApp", "FantasyWebApp\FantasyWebApp.csproj", "{22D66E4E-EE8B-40D9-9432-83F98C08D401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FantasyWebApp.tests", "FantasyWebApp.tests\FantasyWebApp.tests.csproj", "{5CCAA674-1882-496C-BD46-C87F4308519B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{22D66E4E-EE8B-40D9-9432-83F98C08D401}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22D66E4E-EE8B-40D9-9432-83F98C08D401}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22D66E4E-EE8B-40D9-9432-83F98C08D401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CCAA674-1882-496C-BD46-C87F4308519B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CCAA674-1882-496C-BD46-C87F4308519B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CCAA674-1882-496C-BD46-C87F4308519B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CCAA674-1882-496C-BD46-C87F4308519B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
