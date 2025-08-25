@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FantasyWebApp.tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faa32865157ef3a2ace81a22ec498022537b9e3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1399343d94fb7c528d7dad01e986226bcd39fdf")]
 [assembly: System.Reflection.AssemblyProductAttribute("FantasyWebApp.tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FantasyWebApp.tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

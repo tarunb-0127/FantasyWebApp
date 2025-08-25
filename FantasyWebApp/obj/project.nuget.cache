@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5b9/YxADoR8=",
+  "dgSpecHash": "m62Y+R7kTDo=",
   "success": true,
   "projectFilePath": "D:\\RIX_2024\\L1\\Jenkins\\FantasyWebApp\\FantasyWebApp\\FantasyWebApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tarun.balaji\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
   "logs": []
 }

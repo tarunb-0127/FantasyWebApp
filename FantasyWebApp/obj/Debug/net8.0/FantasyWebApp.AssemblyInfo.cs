@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("7d71c46b-4e1f-4b97-9c7e-9803c50c2135")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("FantasyWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faa32865157ef3a2ace81a22ec498022537b9e3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1399343d94fb7c528d7dad01e986226bcd39fdf")]
 [assembly: System.Reflection.AssemblyProductAttribute("FantasyWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FantasyWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
